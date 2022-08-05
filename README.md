@@ -2,7 +2,7 @@
 
 - 👀 Interested in learning new programming languages and opened to new opportunities!
 
-- 🌱 Currently learning Flutter (framework created by Google).
+- 🌱 Currently learning and developing projects using Flutter. (framework created by Google).
 
 - 📫 Looking to collaborate on any project that includes programmation in C# or Flutter! You can reach me via my discord "Gaara#9002".
 <!---

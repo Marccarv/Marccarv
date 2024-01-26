@@ -1,10 +1,6 @@
-- 👋 Good day! Marco Carvalho is my name, and I was born on the 29th of May in Famalicão. Originally from Portugal and a native speaker of Portuguese and fluent in English. It always make me happy and relieves anxiety for me to programming and spend my time with new tecnologies.
+Hello there! 👋 I'm Marco, a passionate programmer fluent in the languages of innovation. My coding journey traverses the realms of C#, T-SQL, and Flutter, where I bring ideas to life through lines of code. With a penchant for crafting robust solutions and a love for elegant design.
 
-- 👀 Interested in learning new programming languages and opened to new opportunities!
-
-- 🌱 Currently developing projects using Flutter. (framework created by Google).
-
-- 📫 Looking to collaborate on any project that includes programmation in C# or Flutter! You can reach me via my discord "marKo#9002".
+Welcome to my GitHub repository, where creativity meets functionality. Join me on this coding adventure as we explore the fascinating world of software development. Together, let's build, learn, and share the magic of code! 🚀✨
 <!---
 Marccarv/Marccarv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
